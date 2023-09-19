@@ -376,7 +376,7 @@ ul.dropdown-menu li {
 }
 
 .slider {
-  background: url("../images/bg/bg-7.jpg") no-repeat 0% 30%;
+  background: url("/images/bg/bg-one-piece-1.jpeg") no-repeat 0% 30%;
   background-size: cover;
   padding: 180px 0px;
 }
@@ -558,7 +558,7 @@ ul.dropdown-menu li {
 }
 
 .cta {
-  background: url("../images/bg/slide2.jpg") fixed 50% 50% no-repeat;
+  background: url("../images/bg/Thousand_Sunny_Infobox.png") fixed 50% 50% no-repeat;
   background-size: cover;
 }
 
