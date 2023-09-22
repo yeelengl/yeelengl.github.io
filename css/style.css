@@ -376,7 +376,7 @@ ul.dropdown-menu li {
 }
 
 .slider {
-  background: url("../images/bg/bg-one-piece-1.jpeg") no-repeat 0% 30%;
+  background: url("/images/bg/bg-one-piece-1.jpeg") no-repeat 0% 30%;
   background-size: cover;
   padding: 180px 0px;
 }
@@ -393,7 +393,7 @@ ul.dropdown-menu li {
 }
 
 .bg-2 {
-  background: url("../images/bg/bg-one-piece-1.jpeg") no-repeat;
+  background: url("../images/bg/bg-image-2-1.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -403,7 +403,7 @@ ul.dropdown-menu li {
 }
 
 .bg-4 {
-  background: url("../images/about/Straw-Hat-Logo.jpg") no-repeat;
+  background: url("../images/about/img-7.jpg") no-repeat;
   background-size: cover;
 }
 
