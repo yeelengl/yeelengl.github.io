@@ -20,7 +20,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/bg.jpg") top right no-repeat;
+  background: #040404 url("../img/bg-1.jpeg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -146,6 +146,9 @@ h6 {
     flex-direction: column;
     align-items: center;
   }
+  .container {
+    margin-top: 40px; 
+  }
 }
 
 /* Header Top */
@@ -189,6 +192,10 @@ h6 {
 
   #header.header-top h1 {
     font-size: 26px;
+  }
+
+  h1 a {
+    margin-top: 80px;
   }
 }
 
@@ -404,6 +411,9 @@ section .container {
   font-family: "Poppins", sans-serif;
   color: #fff;
 }
+.section-title {
+  margin-top: 80px;
+}
 
 /*--------------------------------------------------------------
 # About
@@ -439,6 +449,7 @@ section .container {
 .about-me .content p:last-child {
   margin-bottom: 0;
 }
+
 
 /*--------------------------------------------------------------
 # Counts
