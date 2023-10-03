@@ -1222,3 +1222,7 @@ section .container {
   padding: 10px;
   max-width: 450px;
 }
+
+.quote {
+  color: #15bb62;
+}
